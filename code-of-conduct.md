@@ -30,7 +30,7 @@ characteristics above, including participants with disabilities.
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [opensource+codeofconduct@twitter.com](mailto:opensource+codeofconduct@twitter.com). All reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [opensource+codeofconduct@twitter.com](mailto:privacy@wayqn.com). All reports will be handled with discretion. In your report please include:
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please
@@ -42,7 +42,4 @@ After filing a report, a representative will contact you personally. If the pers
 Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the representative may take any action they deem appropriate, up to and including a permanent ban from our community without warning.
 
 ## Thanks
-
-This code of conduct is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) from the [TODOGroup](http://todogroup.org). 
-
 We are thankful for their work and all the communities who have paved the way with code of conducts.
